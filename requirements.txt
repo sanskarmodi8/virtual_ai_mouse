@@ -1,0 +1,5 @@
+numpy 
+opencv-python
+mediapipe
+setuptools_rust
+autopy
